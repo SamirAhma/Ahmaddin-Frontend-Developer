@@ -1,7 +1,7 @@
 <body>
     <h1>Ahmaddin-Frontend-Developer</h1>
     <p>
-      A portfolio website built with React that showcases the work of Samir Ahma, a front-end developer.
+      A website built with React that showcases Spacex Capsules.
     </p>
     <h2>Installation</h2>
 <ol>
