@@ -27,8 +27,7 @@ The website will be available at <code>http://localhost:3000</code>.
 </ol>
 <h2>Features</h2>
 <ul>
-  <li>Display portfolio projects with screenshots and descriptions.</li>
-  <li>Provide information about the developer, such as skills and contact information.</li>
+ 
   <li>List of capsules by SpaceX with detailed information, such as mission status, usage and number of launches.</li>
   <li>Responsive design for optimal viewing on any device.</li>
 </ul>
