@@ -8,6 +8,8 @@ export const filterBySearchTerm = (data, searchTerm) => {
         return val.some((subVal) => {
           return subVal.name.toLowerCase().includes(searchTerm.toLowerCase());
         });
+      } else {
+        return false;
       }
     });
   });
