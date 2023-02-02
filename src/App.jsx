@@ -1,11 +1,11 @@
 import React from "react";
 
-import Header from "./components/Header";
-import Hero from "./components/Hero";
-import Pagination from "./components/Pagination";
-import SearchForm from "./components/SearchForm";
+import Header from "./components/Header/Header";
+import Hero from "./components/Hero/Hero";
+import Pagination from "./components/Pagination/Pagination";
+import SearchForm from "./components/SearchForm/SearchForm";
 import CapsulesProvider from "./CapsuleContext";
-import CapsuleList from "./components/CapsuleList";
+import CapsuleList from "./components/CapsuleList/CapsuleList";
 const App = () => {
   return (
     <>
